@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Dev-Pas\FIX TUBES\Hitung IP.dp
+Name=Hitung IP
+MainUnit=C:\Dev-Pas\FIX TUBES\HitungIP.pas
+UnitCount=1
+ResFiles=C:\Dev-Pas\FIX TUBES\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Dev-Pas\FIX TUBES\HitungIP.pas
+FileTime=1316439740
